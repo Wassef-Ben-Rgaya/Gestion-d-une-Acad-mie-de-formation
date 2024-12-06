@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\EnseignantCUD\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EnseignantCUD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EnseignantCUD.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EnseignantCUD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EnseignantCUD.props",
+      "PackagePath": "build\\EnseignantCUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EnseignantCUD.props",
+      "PackagePath": "buildMultiTargeting\\EnseignantCUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EnseignantCUD.props",
+      "PackagePath": "buildTransitive\\EnseignantCUD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

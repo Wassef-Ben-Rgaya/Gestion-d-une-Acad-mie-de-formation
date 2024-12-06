@@ -1,0 +1,10 @@
+2024-04-22 01:49:07.281 +01:00 [ERR] Erreur lors de la récupération de tous les Departement : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Departement, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.DepartementDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 01:49:07.325 +01:00 [ERR] Erreur lors de la récupération de tous les Departements : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Departement, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.DepartementDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]

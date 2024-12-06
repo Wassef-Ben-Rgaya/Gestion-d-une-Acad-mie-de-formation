@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GAFGateWay.props" />
+</Project>

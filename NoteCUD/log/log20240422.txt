@@ -1,0 +1,172 @@
+2024-04-22 18:54:26.647 +01:00 [ERR] Erreur AjoutNote <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+NoteDto -> Note
+Service.NoteDto -> Core.Entities.Note
+
+Type Map configuration:
+NoteDto -> Note
+Service.NoteDto -> Core.Entities.Note
+
+Destination Member:
+Etudiant
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> Etudiant
+System.Collections.Generic.List`1[[Core.Entities.Etudiant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.Etudiant
+
+Destination Member:
+Etudiant
+
+   at lambda_method29(Closure, ICollection`1, Etudiant, ResolutionContext)
+   at lambda_method28(Closure, Object, Note, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method28(Closure, Object, Note, ResolutionContext)
+   at Service.Service.NoteAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteAsync.cs:line 41
+   at Service.Service.NoteService.AddNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteService.cs:line 78
+   at ArticlesCUD.Controllers.NotCUDController.AjoutNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\NoteCUD\Controllers\NotCUDController.cs:line 33
+2024-04-22 18:54:54.381 +01:00 [ERR] Erreur AjoutNote <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+NoteDto -> Note
+Service.NoteDto -> Core.Entities.Note
+
+Type Map configuration:
+NoteDto -> Note
+Service.NoteDto -> Core.Entities.Note
+
+Destination Member:
+Etudiant
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> Etudiant
+System.Collections.Generic.List`1[[Core.Entities.Etudiant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.Etudiant
+
+Destination Member:
+Etudiant
+
+   at lambda_method29(Closure, ICollection`1, Etudiant, ResolutionContext)
+   at lambda_method28(Closure, Object, Note, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method28(Closure, Object, Note, ResolutionContext)
+   at Service.Service.NoteAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteAsync.cs:line 41
+   at Service.Service.NoteService.AddNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteService.cs:line 78
+   at ArticlesCUD.Controllers.NotCUDController.AjoutNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\NoteCUD\Controllers\NotCUDController.cs:line 33
+2024-04-22 18:55:24.673 +01:00 [ERR] Erreur AjoutNote <==> System.InvalidOperationException: Unable to track an instance of type 'Note' because it does not have a primary key. Only entity types with a primary key may be tracked.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity, IEntityType entityType)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.EntryWithoutDetectChanges(TEntity entity)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.AddAsync(TEntity entity, CancellationToken cancellationToken)
+   at DAL.Repository.RepositoryAsync`1.Add(TEntity entity) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\Repository\RepositoryAsync.cs:line 45
+   at Service.Service.NoteAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteAsync.cs:line 42
+   at Service.Service.NoteService.AddNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteService.cs:line 78
+   at ArticlesCUD.Controllers.NotCUDController.AjoutNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\NoteCUD\Controllers\NotCUDController.cs:line 33
+2024-04-22 18:55:34.908 +01:00 [ERR] Erreur AjoutNote <==> System.InvalidOperationException: Unable to track an instance of type 'Note' because it does not have a primary key. Only entity types with a primary key may be tracked.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity, IEntityType entityType)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.EntryWithoutDetectChanges(TEntity entity)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.AddAsync(TEntity entity, CancellationToken cancellationToken)
+   at DAL.Repository.RepositoryAsync`1.Add(TEntity entity) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\Repository\RepositoryAsync.cs:line 45
+   at Service.Service.NoteAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteAsync.cs:line 42
+   at Service.Service.NoteService.AddNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteService.cs:line 78
+   at ArticlesCUD.Controllers.NotCUDController.AjoutNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\NoteCUD\Controllers\NotCUDController.cs:line 33
+2024-04-22 18:56:11.567 +01:00 [ERR] Erreur AjoutNote <==> System.InvalidOperationException: Unable to track an instance of type 'Note' because it does not have a primary key. Only entity types with a primary key may be tracked.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity, IEntityType entityType)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.EntryWithoutDetectChanges(TEntity entity)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.AddAsync(TEntity entity, CancellationToken cancellationToken)
+   at DAL.Repository.RepositoryAsync`1.Add(TEntity entity) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\Repository\RepositoryAsync.cs:line 45
+   at Service.Service.NoteAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteAsync.cs:line 42
+   at Service.Service.NoteService.AddNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteService.cs:line 78
+   at ArticlesCUD.Controllers.NotCUDController.AjoutNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\NoteCUD\Controllers\NotCUDController.cs:line 33
+2024-04-22 18:56:18.078 +01:00 [ERR] Erreur AjoutNote <==> System.InvalidOperationException: Unable to track an instance of type 'Note' because it does not have a primary key. Only entity types with a primary key may be tracked.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity, IEntityType entityType)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.EntryWithoutDetectChanges(TEntity entity)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.AddAsync(TEntity entity, CancellationToken cancellationToken)
+   at DAL.Repository.RepositoryAsync`1.Add(TEntity entity) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\Repository\RepositoryAsync.cs:line 45
+   at Service.Service.NoteAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteAsync.cs:line 42
+   at Service.Service.NoteService.AddNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteService.cs:line 78
+   at ArticlesCUD.Controllers.NotCUDController.AjoutNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\NoteCUD\Controllers\NotCUDController.cs:line 33
+2024-04-22 19:46:41.330 +01:00 [ERR] Erreur AjoutNote <==> System.InvalidOperationException: Unable to track an instance of type 'Note' because it does not have a primary key. Only entity types with a primary key may be tracked.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity, IEntityType entityType)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.EntryWithoutDetectChanges(TEntity entity)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.AddAsync(TEntity entity, CancellationToken cancellationToken)
+   at DAL.Repository.RepositoryAsync`1.Add(TEntity entity) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\Repository\RepositoryAsync.cs:line 45
+   at Service.Service.NoteAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteAsync.cs:line 42
+   at Service.Service.NoteService.AddNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteService.cs:line 78
+   at ArticlesCUD.Controllers.NotCUDController.AjoutNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\NoteCUD\Controllers\NotCUDController.cs:line 33
+2024-04-22 19:46:45.090 +01:00 [ERR] Erreur AjoutNote <==> System.InvalidOperationException: Unable to track an instance of type 'Note' because it does not have a primary key. Only entity types with a primary key may be tracked.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity, IEntityType entityType)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.EntryWithoutDetectChanges(TEntity entity)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.AddAsync(TEntity entity, CancellationToken cancellationToken)
+   at DAL.Repository.RepositoryAsync`1.Add(TEntity entity) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\Repository\RepositoryAsync.cs:line 45
+   at Service.Service.NoteAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteAsync.cs:line 42
+   at Service.Service.NoteService.AddNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteService.cs:line 78
+   at ArticlesCUD.Controllers.NotCUDController.AjoutNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\NoteCUD\Controllers\NotCUDController.cs:line 33
+2024-04-22 19:47:08.942 +01:00 [ERR] Erreur AjoutNote <==> System.InvalidOperationException: Unable to track an instance of type 'Note' because it does not have a primary key. Only entity types with a primary key may be tracked.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity, IEntityType entityType)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.EntryWithoutDetectChanges(TEntity entity)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.AddAsync(TEntity entity, CancellationToken cancellationToken)
+   at DAL.Repository.RepositoryAsync`1.Add(TEntity entity) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\Repository\RepositoryAsync.cs:line 45
+   at Service.Service.NoteAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteAsync.cs:line 42
+   at Service.Service.NoteService.AddNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteService.cs:line 78
+   at ArticlesCUD.Controllers.NotCUDController.AjoutNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\NoteCUD\Controllers\NotCUDController.cs:line 33
+2024-04-22 19:48:56.418 +01:00 [ERR] Erreur AjoutNote <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+NoteDto -> Note
+Service.NoteDto -> Core.Entities.Note
+
+Type Map configuration:
+NoteDto -> Note
+Service.NoteDto -> Core.Entities.Note
+
+Destination Member:
+Etudiant
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> Etudiant
+System.Collections.Generic.List`1[[Core.Entities.Etudiant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.Etudiant
+
+Destination Member:
+Etudiant
+
+   at lambda_method29(Closure, ICollection`1, Etudiant, ResolutionContext)
+   at lambda_method28(Closure, Object, Note, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method28(Closure, Object, Note, ResolutionContext)
+   at Service.Service.NoteAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteAsync.cs:line 41
+   at Service.Service.NoteService.AddNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteService.cs:line 78
+   at ArticlesCUD.Controllers.NotCUDController.AjoutNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\NoteCUD\Controllers\NotCUDController.cs:line 33
+2024-04-22 19:48:57.952 +01:00 [ERR] Erreur AjoutNote <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+NoteDto -> Note
+Service.NoteDto -> Core.Entities.Note
+
+Type Map configuration:
+NoteDto -> Note
+Service.NoteDto -> Core.Entities.Note
+
+Destination Member:
+Etudiant
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> Etudiant
+System.Collections.Generic.List`1[[Core.Entities.Etudiant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.Etudiant
+
+Destination Member:
+Etudiant
+
+   at lambda_method29(Closure, ICollection`1, Etudiant, ResolutionContext)
+   at lambda_method28(Closure, Object, Note, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method28(Closure, Object, Note, ResolutionContext)
+   at Service.Service.NoteAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteAsync.cs:line 41
+   at Service.Service.NoteService.AddNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\NoteService.cs:line 78
+   at ArticlesCUD.Controllers.NotCUDController.AjoutNote(NoteDto Note) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\NoteCUD\Controllers\NotCUDController.cs:line 33

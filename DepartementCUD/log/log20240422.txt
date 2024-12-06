@@ -1,0 +1,332 @@
+2024-04-22 18:17:37.428 +01:00 [ERR] Erreur AjoutDepartement <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Type Map configuration:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Destination Member:
+College
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> College
+System.Collections.Generic.List`1[[Core.Entities.College, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.College
+
+Destination Member:
+College
+
+   at lambda_method36(Closure, ICollection`1, College, ResolutionContext)
+   at lambda_method35(Closure, Object, Departement, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method35(Closure, Object, Departement, ResolutionContext)
+   at Service.Service.DepartementAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementAsync.cs:line 41
+   at Service.Service.DepartementService.AddDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementService.cs:line 80
+   at ArticlesCUD.Controllers.DepCUDController.AjoutDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DepartementCUD\Controllers\DepCUDController.cs:line 34
+2024-04-22 18:17:46.889 +01:00 [ERR] Erreur AjoutDepartement <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Type Map configuration:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Destination Member:
+College
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> College
+System.Collections.Generic.List`1[[Core.Entities.College, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.College
+
+Destination Member:
+College
+
+   at lambda_method36(Closure, ICollection`1, College, ResolutionContext)
+   at lambda_method35(Closure, Object, Departement, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method35(Closure, Object, Departement, ResolutionContext)
+   at Service.Service.DepartementAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementAsync.cs:line 41
+   at Service.Service.DepartementService.AddDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementService.cs:line 80
+   at ArticlesCUD.Controllers.DepCUDController.AjoutDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DepartementCUD\Controllers\DepCUDController.cs:line 34
+2024-04-22 18:17:50.820 +01:00 [ERR] Erreur AjoutDepartement <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Type Map configuration:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Destination Member:
+College
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> College
+System.Collections.Generic.List`1[[Core.Entities.College, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.College
+
+Destination Member:
+College
+
+   at lambda_method36(Closure, ICollection`1, College, ResolutionContext)
+   at lambda_method35(Closure, Object, Departement, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method35(Closure, Object, Departement, ResolutionContext)
+   at Service.Service.DepartementAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementAsync.cs:line 41
+   at Service.Service.DepartementService.AddDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementService.cs:line 80
+   at ArticlesCUD.Controllers.DepCUDController.AjoutDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DepartementCUD\Controllers\DepCUDController.cs:line 34
+2024-04-22 18:29:08.230 +01:00 [ERR] Erreur AjoutDepartement <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Type Map configuration:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Destination Member:
+College
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> College
+System.Collections.Generic.List`1[[Core.Entities.College, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.College
+
+Destination Member:
+College
+
+   at lambda_method27(Closure, ICollection`1, College, ResolutionContext)
+   at lambda_method26(Closure, Object, Departement, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method26(Closure, Object, Departement, ResolutionContext)
+   at Service.Service.DepartementAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementAsync.cs:line 41
+   at Service.Service.DepartementService.AddDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementService.cs:line 80
+   at ArticlesCUD.Controllers.DepCUDController.AjoutDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DepartementCUD\Controllers\DepCUDController.cs:line 34
+2024-04-22 18:29:16.229 +01:00 [ERR] Erreur AjoutDepartement <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Type Map configuration:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Destination Member:
+College
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> College
+System.Collections.Generic.List`1[[Core.Entities.College, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.College
+
+Destination Member:
+College
+
+   at lambda_method27(Closure, ICollection`1, College, ResolutionContext)
+   at lambda_method26(Closure, Object, Departement, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method26(Closure, Object, Departement, ResolutionContext)
+   at Service.Service.DepartementAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementAsync.cs:line 41
+   at Service.Service.DepartementService.AddDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementService.cs:line 80
+   at ArticlesCUD.Controllers.DepCUDController.AjoutDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DepartementCUD\Controllers\DepCUDController.cs:line 34
+2024-04-22 18:30:41.299 +01:00 [ERR] Erreur AjoutDepartement <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Type Map configuration:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Destination Member:
+College
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> College
+System.Collections.Generic.List`1[[Core.Entities.College, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.College
+
+Destination Member:
+College
+
+   at lambda_method27(Closure, ICollection`1, College, ResolutionContext)
+   at lambda_method26(Closure, Object, Departement, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method26(Closure, Object, Departement, ResolutionContext)
+   at Service.Service.DepartementAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementAsync.cs:line 41
+   at Service.Service.DepartementService.AddDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementService.cs:line 80
+   at ArticlesCUD.Controllers.DepCUDController.AjoutDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DepartementCUD\Controllers\DepCUDController.cs:line 34
+2024-04-22 18:30:44.569 +01:00 [ERR] Erreur AjoutDepartement <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Type Map configuration:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Destination Member:
+College
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> College
+System.Collections.Generic.List`1[[Core.Entities.College, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.College
+
+Destination Member:
+College
+
+   at lambda_method27(Closure, ICollection`1, College, ResolutionContext)
+   at lambda_method26(Closure, Object, Departement, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method26(Closure, Object, Departement, ResolutionContext)
+   at Service.Service.DepartementAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementAsync.cs:line 41
+   at Service.Service.DepartementService.AddDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementService.cs:line 80
+   at ArticlesCUD.Controllers.DepCUDController.AjoutDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DepartementCUD\Controllers\DepCUDController.cs:line 34
+2024-04-22 18:33:21.689 +01:00 [ERR] Erreur AjoutDepartement <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Type Map configuration:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Destination Member:
+ResDepartement
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> Enseignant
+System.Collections.Generic.List`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.Enseignant
+
+Destination Member:
+ResDepartement
+
+   at lambda_method26(Closure, ICollection`1, Enseignant, ResolutionContext)
+   at lambda_method25(Closure, Object, Departement, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method25(Closure, Object, Departement, ResolutionContext)
+   at Service.Service.DepartementAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementAsync.cs:line 41
+   at Service.Service.DepartementService.AddDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementService.cs:line 80
+   at ArticlesCUD.Controllers.DepCUDController.AjoutDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DepartementCUD\Controllers\DepCUDController.cs:line 34
+2024-04-22 18:38:28.822 +01:00 [ERR] Erreur AjoutDepartement <==> Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23505: la valeur d'une clé dupliquée rompt la contrainte unique « departement_pkey »
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|234_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERREUR
+    SqlState: 23505
+    MessageText: la valeur d'une clé dupliquée rompt la contrainte unique « departement_pkey »
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: departement
+    ConstraintName: departement_pkey
+    File: nbtinsert.c
+    Line: 673
+    Routine: _bt_check_unique
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.<>c__DisplayClass30_0`2.<<ExecuteAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteImplementationAsync[TState,TResult](Func`4 operation, Func`4 verifySucceeded, TState state, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteImplementationAsync[TState,TResult](Func`4 operation, Func`4 verifySucceeded, TState state, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at DAL.Repository.RepositoryAsync`1.Add(TEntity entity) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\Repository\RepositoryAsync.cs:line 46
+   at Service.Service.DepartementAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementAsync.cs:line 42
+   at Service.Service.DepartementService.AddDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementService.cs:line 80
+   at ArticlesCUD.Controllers.DepCUDController.AjoutDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DepartementCUD\Controllers\DepCUDController.cs:line 34
+2024-04-22 20:00:29.532 +01:00 [ERR] Erreur AjoutDepartement <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Type Map configuration:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Destination Member:
+College
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> College
+System.Collections.Generic.List`1[[Core.Entities.College, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.College
+
+Destination Member:
+College
+
+   at lambda_method27(Closure, ICollection`1, College, ResolutionContext)
+   at lambda_method26(Closure, Object, Departement, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method26(Closure, Object, Departement, ResolutionContext)
+   at Service.Service.DepartementAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementAsync.cs:line 41
+   at Service.Service.DepartementService.AddDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementService.cs:line 80
+   at ArticlesCUD.Controllers.DepCUDController.AjoutDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DepartementCUD\Controllers\DepCUDController.cs:line 34
+2024-04-22 20:00:41.877 +01:00 [ERR] Erreur AjoutDepartement <==> AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Type Map configuration:
+DepartementDto -> Departement
+Service.DepartementDto -> Core.Entities.Departement
+
+Destination Member:
+College
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> College
+System.Collections.Generic.List`1[[Core.Entities.College, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Core.Entities.College
+
+Destination Member:
+College
+
+   at lambda_method27(Closure, ICollection`1, College, ResolutionContext)
+   at lambda_method26(Closure, Object, Departement, ResolutionContext)
+   --- End of inner exception stack trace ---
+   at lambda_method26(Closure, Object, Departement, ResolutionContext)
+   at Service.Service.DepartementAsync`2.Add(TDto tDto) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementAsync.cs:line 41
+   at Service.Service.DepartementService.AddDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\Service\DepartementService.cs:line 80
+   at ArticlesCUD.Controllers.DepCUDController.AjoutDepartement(DepartementDto Departement) in C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DepartementCUD\Controllers\DepCUDController.cs:line 34

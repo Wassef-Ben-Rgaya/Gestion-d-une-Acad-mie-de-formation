@@ -1,0 +1,610 @@
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\appsettings.Development.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\appsettings.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.exe
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.deps.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.runtimeconfig.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.pdb
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Humanizer.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Core.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\DAL.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Service.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Service.pdb
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\Core.pdb
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\bin\Debug\net7.0\DAL.pdb
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.AssemblyReference.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.AssemblyInfoInputs.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.AssemblyInfo.cs
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.CoreCompileInputs.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.MvcApplicationPartsAssemblyInfo.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.ArticlesCUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.build.ArticlesCUD.props
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ArticlesCUD.props
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ArticlesCUD.props
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.build.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.development.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\scopedcss\bundle\ArticlesCUD.styles.css
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.CopyComplete
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\refint\ArticlesCUD.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.pdb
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.genruntimeconfig.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ArticlesCUD\obj\Debug\net7.0\ref\ArticlesCUD.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\appsettings.json
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.exe
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.deps.json
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.runtimeconfig.json
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.pdb
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Humanizer.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Core.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\DAL.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Service.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Service.pdb
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Core.pdb
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\bin\Debug\net7.0\DAL.pdb
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.AssemblyReference.cache
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.AssemblyInfoInputs.cache
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.AssemblyInfo.cs
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.CoreCompileInputs.cache
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.ArticlesCUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.build.ArticlesCUD.props
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ArticlesCUD.props
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ArticlesCUD.props
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\scopedcss\bundle\ArticlesCUD.styles.css
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.CopyComplete
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\refint\ArticlesCUD.dll
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.pdb
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.genruntimeconfig.cache
+C:\Users\water\OneDrive\Bureau\ERP_V_08-03-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ref\ArticlesCUD.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\appsettings.json
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.exe
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.deps.json
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.runtimeconfig.json
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.pdb
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Humanizer.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Core.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\DAL.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Service.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Service.pdb
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\Core.pdb
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\bin\Debug\net7.0\DAL.pdb
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.AssemblyReference.cache
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.AssemblyInfoInputs.cache
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.AssemblyInfo.cs
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.CoreCompileInputs.cache
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.ArticlesCUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.build.ArticlesCUD.props
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ArticlesCUD.props
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ArticlesCUD.props
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\scopedcss\bundle\ArticlesCUD.styles.css
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.CopyComplete
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\refint\ArticlesCUD.dll
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.pdb
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.genruntimeconfig.cache
+C:\Users\water\OneDrive\Bureau\ERP_\ERP\ArticlesCUD\obj\Debug\net7.0\ref\ArticlesCUD.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\appsettings.json
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.exe
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.deps.json
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.runtimeconfig.json
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.pdb
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Humanizer.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Core.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Service.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Service.pdb
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\Core.pdb
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\bin\Debug\net7.0\DAL.pdb
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.AssemblyReference.cache
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.AssemblyInfoInputs.cache
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.AssemblyInfo.cs
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.CoreCompileInputs.cache
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.ArticlesCUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.build.ArticlesCUD.props
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ArticlesCUD.props
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ArticlesCUD.props
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\scopedcss\bundle\ArticlesCUD.styles.css
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.CopyComplete
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\refint\ArticlesCUD.dll
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.pdb
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.genruntimeconfig.cache
+C:\Users\wassef\OneDrive\Desktop\ERP V 15-08-2024\ERP\ArticlesCUD\obj\Debug\net7.0\ref\ArticlesCUD.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\appsettings.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.exe
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.deps.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.runtimeconfig.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ArticlesCUD.pdb
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Humanizer.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Core.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Service.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Service.pdb
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\Core.pdb
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\bin\Debug\net7.0\DAL.pdb
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.AssemblyReference.cache
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.AssemblyInfoInputs.cache
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.AssemblyInfo.cs
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.CoreCompileInputs.cache
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.ArticlesCUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.build.ArticlesCUD.props
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ArticlesCUD.props
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ArticlesCUD.props
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\scopedcss\bundle\ArticlesCUD.styles.css
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.csproj.CopyComplete
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\refint\ArticlesCUD.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.pdb
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\ArticlesCUD.genruntimeconfig.cache
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ArticlesCUD\obj\Debug\net7.0\ref\ArticlesCUD.dll

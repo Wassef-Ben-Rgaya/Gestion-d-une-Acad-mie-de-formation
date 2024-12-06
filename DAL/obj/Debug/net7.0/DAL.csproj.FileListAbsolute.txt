@@ -1,0 +1,30 @@
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\bin\Debug\net7.0\DAL.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\bin\Debug\net7.0\DAL.pdb
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\bin\Debug\net7.0\Core.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\bin\Debug\net7.0\Core.pdb
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\obj\Debug\net7.0\DAL.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\obj\Debug\net7.0\DAL.pdb
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\bin\Debug\net7.0\Core.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\bin\Debug\net7.0\Core.pdb
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\DAL\obj\Debug\net7.0\ref\DAL.dll

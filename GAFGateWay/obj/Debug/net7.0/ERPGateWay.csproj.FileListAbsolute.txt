@@ -1,0 +1,96 @@
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\appsettings.Development.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\appsettings.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\ocelot.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\ERPGateWay.exe
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\ERPGateWay.deps.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\ERPGateWay.runtimeconfig.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\ERPGateWay.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\ERPGateWay.pdb
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\FluentValidation.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\IPAddressRange.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Ocelot.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.csproj.AssemblyReference.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.AssemblyInfoInputs.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.AssemblyInfo.cs
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.csproj.CoreCompileInputs.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.MvcApplicationPartsAssemblyInfo.cs
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.MvcApplicationPartsAssemblyInfo.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets\msbuild.ERPGateWay.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets\msbuild.build.ERPGateWay.props
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ERPGateWay.props
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ERPGateWay.props
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets.build.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets.development.json
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\scopedcss\bundle\ERPGateWay.styles.css
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.csproj.CopyComplete
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\refint\ERPGateWay.dll
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.pdb
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.genruntimeconfig.cache
+D:\Universite_Centrale\Ing-INFII_2Semestrar\ERP\ERPGateWay\obj\Debug\net7.0\ref\ERPGateWay.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\appsettings.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\ocelot.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\ERPGateWay.exe
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\ERPGateWay.deps.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\ERPGateWay.runtimeconfig.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\ERPGateWay.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\ERPGateWay.pdb
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\IPAddressRange.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Ocelot.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.csproj.AssemblyReference.cache
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.AssemblyInfoInputs.cache
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.AssemblyInfo.cs
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.csproj.CoreCompileInputs.cache
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets\msbuild.ERPGateWay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets\msbuild.build.ERPGateWay.props
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ERPGateWay.props
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ERPGateWay.props
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\scopedcss\bundle\ERPGateWay.styles.css
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.csproj.CopyComplete
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\refint\ERPGateWay.dll
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.pdb
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\ERPGateWay.genruntimeconfig.cache
+C:\Users\wassef\OneDrive\Desktop\DEV Web\ERP\ERPGateWay\obj\Debug\net7.0\ref\ERPGateWay.dll

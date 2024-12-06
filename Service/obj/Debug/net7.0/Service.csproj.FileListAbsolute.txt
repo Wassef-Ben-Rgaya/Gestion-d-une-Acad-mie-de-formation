@@ -1,0 +1,17 @@
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\bin\Debug\net7.0\Service.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\bin\Debug\net7.0\Core.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\bin\Debug\net7.0\DAL.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\bin\Debug\net7.0\DAL.pdb
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\bin\Debug\net7.0\Core.pdb
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\obj\Debug\net7.0\Service.csproj.CopyComplete
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\obj\Debug\net7.0\Service.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\Service\obj\Debug\net7.0\ref\Service.dll

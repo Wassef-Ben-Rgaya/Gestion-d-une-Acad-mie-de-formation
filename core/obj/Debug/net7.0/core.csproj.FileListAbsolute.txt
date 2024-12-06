@@ -1,0 +1,14 @@
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\bin\Debug\net7.0\core.deps.json
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\bin\Debug\net7.0\core.runtimeconfig.json
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\bin\Debug\net7.0\core.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\bin\Debug\net7.0\core.pdb
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\obj\Debug\net7.0\core.csproj.AssemblyReference.cache
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\obj\Debug\net7.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\obj\Debug\net7.0\core.AssemblyInfoInputs.cache
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\obj\Debug\net7.0\core.AssemblyInfo.cs
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\obj\Debug\net7.0\core.csproj.CoreCompileInputs.cache
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\obj\Debug\net7.0\core.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\obj\Debug\net7.0\refint\core.dll
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\obj\Debug\net7.0\core.pdb
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\obj\Debug\net7.0\core.genruntimeconfig.cache
+C:\Users\wassef\OneDrive\Desktop\Projet Dev Web\Gestion d’une Académie de formation\core\obj\Debug\net7.0\ref\core.dll

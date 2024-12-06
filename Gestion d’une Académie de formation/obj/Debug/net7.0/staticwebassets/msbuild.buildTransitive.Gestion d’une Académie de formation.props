@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Gestion d’une Académie de formation.props" />
+</Project>

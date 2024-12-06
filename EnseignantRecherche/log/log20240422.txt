@@ -1,0 +1,276 @@
+2024-04-22 13:12:54.176 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 13:12:54.210 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 13:45:24.819 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 13:45:24.852 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 13:46:05.010 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 13:46:05.022 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 13:49:50.525 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 13:49:50.539 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 14:40:34.875 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 14:40:34.940 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 17:58:23.630 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 17:58:23.664 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 18:21:12.712 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 18:21:12.745 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 18:21:21.904 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 18:21:21.916 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 18:42:56.546 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 18:42:56.579 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 18:43:54.482 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 18:43:54.516 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 18:43:56.163 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 18:43:56.176 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:12:40.458 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:12:40.492 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:23:31.631 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:23:31.663 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:47:56.405 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants: Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:47:56.437 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:52:22.549 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants: Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:52:22.583 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:52:26.218 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants: Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:52:26.230 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:53:40.950 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants: Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:53:40.986 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:53:42.542 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants: Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:53:42.557 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:53:43.547 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants: Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:53:43.559 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:54:07.808 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants: Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 20:54:07.844 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 21:03:54.781 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants: Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 21:03:54.817 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 21:04:51.644 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants: Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 21:04:51.656 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 21:06:39.331 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants: Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 21:06:39.365 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 21:08:15.073 +01:00 [ERR] Erreur lors de la récupération de Enseignant : Error mapping types.
+
+Mapping types:
+Enseignant -> EnseignantDto
+Core.Entities.Enseignant -> Service.EnseignantDto
+
+Type Map configuration:
+Enseignant -> EnseignantDto
+Core.Entities.Enseignant -> Service.EnseignantDto
+
+Destination Member:
+Indice
+
+2024-04-22 21:11:20.236 +01:00 [ERR] Erreur lors de la récupération de Enseignant : Error mapping types.
+
+Mapping types:
+Enseignant -> EnseignantDto
+Core.Entities.Enseignant -> Service.EnseignantDto
+
+Type Map configuration:
+Enseignant -> EnseignantDto
+Core.Entities.Enseignant -> Service.EnseignantDto
+
+Destination Member:
+Indice
+
+2024-04-22 21:11:27.498 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants: Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 21:11:27.510 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 21:15:44.409 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants: Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2024-04-22 21:15:44.454 +01:00 [ERR] Erreur lors de la récupération de tous les Enseignants : Error mapping types.
+
+Mapping types:
+InternalDbSet`1 -> List`1
+Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1[[Core.Entities.Enseignant, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.List`1[[Service.EnseignantDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]

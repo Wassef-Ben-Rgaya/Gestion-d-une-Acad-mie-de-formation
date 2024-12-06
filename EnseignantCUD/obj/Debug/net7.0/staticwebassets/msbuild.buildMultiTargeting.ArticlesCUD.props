@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ArticlesCUD.props" />
+</Project>

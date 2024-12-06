@@ -1,0 +1,175 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:5050"
+  },
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/collegecud",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/CollegeCUD/AddCollege",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5051
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/collegerecherche",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/College/GetAll",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5052
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/departementcud",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/DepartementCUD/AddDepartement",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5053
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/departementrecherche",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/Departement/GetAll",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5054
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/enseignantcud",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/EnseignantCUD/AddEnseignant",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5055
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/enseignantrecherche",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/Enseignant/GetAll",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5056
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/etudiantcud",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/EtudiantCUD/AddEtudiant",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5057
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/etudiantrecherche",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/Etudiant/GetAll",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5058
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/matierecud",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/MatiereCUD/AddMatiere",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5059
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/matiererecherche",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/Matiere/GetAll",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5060
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/notecud",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/NoteCUD/AddNote",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5061
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/noterecherche",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/Note/GetAll",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5062
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/sallecud",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/SalleCUD/AddSalle",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5063
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/sallerecherche",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/Salle/GetAll",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5064
+        }
+      ]
+    }
+  ]
+}

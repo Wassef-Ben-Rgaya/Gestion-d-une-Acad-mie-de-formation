@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "5SXDJRvaN5tRkr3992mqGBDF50Iug+sEbKSggreYFfc=",
+  "Source": "EnseignantCUD",
+  "BasePath": "_content/EnseignantCUD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\EnseignantCUD\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EnseignantCUD.styles.css",
+      "SourceId": "EnseignantCUD",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\EnseignantCUD\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/EnseignantCUD",
+      "RelativePath": "EnseignantCUD.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\EnseignantCUD\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EnseignantCUD.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\EnseignantCUD\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EnseignantCUD.bundle.scp.css",
+      "SourceId": "EnseignantCUD",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\EnseignantCUD\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/EnseignantCUD",
+      "RelativePath": "EnseignantCUD.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\EnseignantCUD\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EnseignantCUD.bundle.scp.css"
+    }
+  ]
+}

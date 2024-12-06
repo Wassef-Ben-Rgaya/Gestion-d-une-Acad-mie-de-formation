@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "ySogpoNp8s6Va8BQtkvzsN6vmgnhKnjdjlu9TTFQJgQ=",
+  "Source": "NoteCUD",
+  "BasePath": "_content/NoteCUD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\NoteCUD\\obj\\Debug\\net7.0\\scopedcss\\bundle\\NoteCUD.styles.css",
+      "SourceId": "NoteCUD",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\NoteCUD\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/NoteCUD",
+      "RelativePath": "NoteCUD.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\NoteCUD\\obj\\Debug\\net7.0\\scopedcss\\bundle\\NoteCUD.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\NoteCUD\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NoteCUD.bundle.scp.css",
+      "SourceId": "NoteCUD",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\NoteCUD\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/NoteCUD",
+      "RelativePath": "NoteCUD.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\NoteCUD\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NoteCUD.bundle.scp.css"
+    }
+  ]
+}

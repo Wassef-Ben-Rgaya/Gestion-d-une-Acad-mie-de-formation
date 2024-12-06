@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\wassef\\OneDrive\\Desktop\\Projet Dev Web\\Gestion d’une Académie de formation\\NoteCUD\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NoteCUD.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NoteCUD.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.NoteCUD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.NoteCUD.props",
+      "PackagePath": "build\\NoteCUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.NoteCUD.props",
+      "PackagePath": "buildMultiTargeting\\NoteCUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.NoteCUD.props",
+      "PackagePath": "buildTransitive\\NoteCUD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
